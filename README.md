@@ -1,7 +1,7 @@
 # Decision Finder (Jupyter Notebook)
 Jupyter notebook for exploring headnotes and catchwords of EPO board of appeal decisions
 
-A lightweight **Jupyter notebook** for exploring the **Headnotes and Catchwords of EPO Board of Appeal Decisions** It performs semantic search and RAG-style answers using transformers—running **100% locally** on your machine for privacy and speed.
+A lightweight **Jupyter notebook** for exploring the **Headnotes and Catchwords of EPO Board of Appeal Decisions**. It performs semantic search and RAG-style answers using transformers.
 
 **Dataset (Zenodo):** [https://zenodo.org/records/14987955](https://zenodo.org/records/14987955)
 
