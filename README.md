@@ -1,11 +1,11 @@
 # Decision Finder (Jupyter Notebook)
 
-A lightweight **Jupyter notebook** for exploring the **Headnotes and Catchwords of EPO Board of Appeal Decisions** - running entirely locally, delivering semantic search and RAG answers with transformer models.
+A lightweight **Jupyter notebook** for exploring the **Headnotes and Catchwords of EPO Board of Appeal G-Decisions** - running entirely locally, delivering semantic search and RAG answers with transformer models.
 
 **Dataset (Zenodo):** [https://zenodo.org/records/14987955](https://zenodo.org/records/14987955)
 
 ## Features
-- **Data:** 120 headnotes/catchwords in English (with duplicates)
+- **Data:** G-Decisions, 120 headnotes/catchwords in English (with duplicates)
 - **Local-first & offline:** All processing (embeddings + LLM) runs locally on your device.
 - **Focused corpus:** Optimized for **G-decision headnotes & catchwords (EN)** to answer domain-specific queries.
 - **Semantic search + RAG answers:** Retrieve the most relevant snippets and generate concise answers with cited sources.
